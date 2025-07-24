@@ -28,10 +28,10 @@
 
 + [Tutorial 2 - Conduct Statistical Analyses in R and Python](Course_Materials/tutorial_2.pdf)
 
-### Module 3: Present Your Data Story
+### Module 3: Present Your Findings
 
 + [Lecture 7 - Data Visualization: A Picture Worth a Thousand Words](Course_Materials/lecture_7.pdf)
 
 + [Tutorial 3 - Data Visualization and Shiny App](Course_Materials/tutorial_3.pdf)
 
-
++ [Lecture 8 - Effective Presentation: Making the Most of the Statistical Analysis](Course_Materials/lecture8.pdf)
